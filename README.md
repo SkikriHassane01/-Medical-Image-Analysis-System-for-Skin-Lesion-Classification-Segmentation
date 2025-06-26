@@ -9,9 +9,10 @@ This project builds an intelligent system for analyzing dermatoscopic images to:
 ```
 skin_lesion_project/
 │
-├── requirements.txt
 ├── README.md
+├── LICENSE
 ├── config.py
+├── pyprject.toml (poetry)
 │
 ├── data/
 │   ├── Classification/
